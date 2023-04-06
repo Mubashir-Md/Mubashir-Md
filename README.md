@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mubashir-Md
-- 👀 I’m interested in Coding in Python and JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a front end developer
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me, Twitter id : @Mubashir_061 
 <!---
